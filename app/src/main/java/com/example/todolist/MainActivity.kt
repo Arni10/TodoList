@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Local change")
 
-        println("Change 1")
+        println("Change 3")
 
         todoAdapter = TodoAdapter(mutableListOf())
 
