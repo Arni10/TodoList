@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Local change")
 
-        println("Change 4")
+        println("Change 3")
 
         println("This line will be merged to")
 
