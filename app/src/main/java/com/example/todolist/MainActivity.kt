@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Change 4")
 
-        println("This line will be merged")
+        println("This line will be merged to")
 
         todoAdapter = TodoAdapter(mutableListOf())
 
