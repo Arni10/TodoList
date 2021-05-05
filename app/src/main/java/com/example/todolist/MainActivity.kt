@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Change 4")
 
+        println("This line will be merged")
+
         todoAdapter = TodoAdapter(mutableListOf())
 
         rvTodoItems.adapter = todoAdapter
