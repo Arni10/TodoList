@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Change 3")
 
+        println("Hello from your friend")
+
         todoAdapter = TodoAdapter(mutableListOf())
 
         rvTodoItems.adapter = todoAdapter
